@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 About Me
 
-Certifications
+:scroll: Certifications
+•	Google Cloud Platform (Associate Cloud Engineer)
+•	Microsoft Azure Fundamentals (AZ-900)
+•	New relic Certified (Full Stack Observability Practioner)
 
 Professional Experience
 
@@ -29,6 +32,7 @@ Achievements
 
 Interests and future goals:
 
+---
 
 Connect with me:
 - [LinkedIn](linkedin.com/in/manjeet-khanna-1853711a5)
