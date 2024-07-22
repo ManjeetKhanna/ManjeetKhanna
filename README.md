@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :rocket: About Me
 
-:scroll: Certifications
+:scroll: Certifications  
 •	Google Cloud Platform (Associate Cloud Engineer)  
 •	Microsoft Azure Fundamentals (AZ-900)  
 •	New relic Certified (Full Stack Observability Practioner)
