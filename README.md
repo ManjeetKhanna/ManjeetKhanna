@@ -15,25 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
+:rocket: About Me
 
 :scroll: Certifications
-•	Google Cloud Platform (Associate Cloud Engineer)
-•	Microsoft Azure Fundamentals (AZ-900)
+•	Google Cloud Platform (Associate Cloud Engineer)  
+•	Microsoft Azure Fundamentals (AZ-900)  
 •	New relic Certified (Full Stack Observability Practioner)
 
-Professional Experience
+:briefcase: Professional Experience
 
-Technical Skills
+:hammer_and_wrench: Technical Skills
 
-Academic Projects
-
-Achievements
-
-Interests and future goals:
+:bulb: Interests and future goals:
+I'm excited to apply my skills and experience to tackle challenging projects and drive meaningful innovation. I thrive in dynamic environments and am passionate about pushing the boundaries of technology.
 
 ---
 
-Connect with me:
+📫 Connect with me:
 - [LinkedIn](linkedin.com/in/manjeet-khanna-1853711a5)
 - [Email](manjeetkhanna04@gmail.com)
