@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 :briefcase: Professional Experience  
 ---
-**• Custom Software Engineering Analyst at Accenture, Pune**
+**• Custom Software Engineering Analyst at Accenture, Pune**  
   o	Implemented CI/CD Azure pipelines, reducing manual efforts by 90% and improving pipeline monitoring automation.  
   o	Optimized SQL scripts and managed big data in Google BigQuery, achieving 89% efficiency and 54% performance improvement.  
   o	Documented technical solutions in JIRA Confluence, saving developers 48% of coding time, and utilized cloud platforms like GCP and Azure for various data and workflow tasks.  
