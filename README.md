@@ -15,6 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+About Me
+
+Certifications
+
+Professional Experience
+
+Technical Skills
+
+Academic Projects
+
+Achievements
+
+Interests and future goals:
+
+
 Connect with me:
 - [LinkedIn](linkedin.com/in/manjeet-khanna-1853711a5)
 - [Email](manjeetkhanna04@gmail.com)
