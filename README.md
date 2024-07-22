@@ -27,20 +27,20 @@ Here are some ideas to get you started:
 :briefcase: Professional Experience  
 ---
 **• Custom Software Engineering Analyst at Accenture, Pune**
-  o	Implemented CI/CD Azure pipelines, reducing manual efforts by 90% and improving pipeline monitoring automation.
-  o	Optimized SQL scripts and managed big data in Google BigQuery, achieving 89% efficiency and 54% performance improvement.
-  o	Documented technical solutions in JIRA Confluence, saving developers 48% of coding time, and utilized cloud platforms like GCP and Azure for various data and workflow tasks.
-**• Web Developer Intern at Pixaflip Technologies, Pune**
-  o	Developed and linked a WordPress website to a database with 75% accuracy.
-  o	Created a responsive website using HTML and CSS, achieving 87% responsiveness.
+  o	Implemented CI/CD Azure pipelines, reducing manual efforts by 90% and improving pipeline monitoring automation.  
+  o	Optimized SQL scripts and managed big data in Google BigQuery, achieving 89% efficiency and 54% performance improvement.  
+  o	Documented technical solutions in JIRA Confluence, saving developers 48% of coding time, and utilized cloud platforms like GCP and Azure for various data and workflow tasks.  
+**• Web Developer Intern at Pixaflip Technologies, Pune**  
+  o	Developed and linked a WordPress website to a database with 75% accuracy.  
+  o	Created a responsive website using HTML and CSS, achieving 87% responsiveness.  
 
 :hammer_and_wrench: Technical Skills  
 ---
-• **Programming Languages:** C, C++, Java, Python 
-• **Frameworks and Libraries:** React.js, Node.js
-• **Database Management:** MySQL, MongoDB
-• **IDEs:** Visual Studio Code, Jupyter Notebook 
-• **Version Control:** Git
+• **Programming Languages:** C, C++, Java, Python  
+• **Frameworks and Libraries:** React.js, Node.js  
+• **Database Management:** MySQL, MongoDB  
+• **IDEs:** Visual Studio Code, Jupyter Notebook   
+• **Version Control:** Git  
 
 :bulb: Interests and Future Goals  
 ---
