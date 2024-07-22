@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:rocket: About Me
+:rocket: About Me  
+---
 
 :scroll: Certifications  
 ---
-***
-___
 •	Google Cloud Platform (Associate Cloud Engineer)  
 •	Microsoft Azure Fundamentals (AZ-900)  
 •	New relic Certified (Full Stack Observability Practioner)
 
-:briefcase: Professional Experience
+:briefcase: Professional Experience  
+---
 
-:hammer_and_wrench: Technical Skills
+:hammer_and_wrench: Technical Skills  
+---
 
-:bulb: Interests and future goals:
+:bulb: Interests and Future Goals  
+---
 I'm excited to apply my skills and experience to tackle challenging projects and drive meaningful innovation. I thrive in dynamic environments and am passionate about pushing the boundaries of technology.
 
 ---
