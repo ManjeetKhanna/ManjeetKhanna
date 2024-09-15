@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 :rocket: About Me  
 ---
+I am a Computer Science major and I am searching for full time opportunities.
 
 :scroll: Certifications  
 ---
