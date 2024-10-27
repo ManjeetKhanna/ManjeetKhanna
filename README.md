@@ -21,10 +21,10 @@ I am a Computer Science major and I am searching for full time opportunities.
 
 :scroll: Certifications  
 ---
-•	Amazon Web Services (AWS): Cloud Practitioner(CLF-C02) 
-•	Google Cloud Platform(GCP): Associate Cloud Engineer(ACE)
-•	Microsoft Azure Fundamentals: (AZ-900)  
-•	New relic Certified (Full Stack Observability Practioner)
+•	Amazon Web Services (AWS): Cloud Practitioner(CLF-C02)  <br>
+•	Google Cloud Platform(GCP): Associate Cloud Engineer(ACE) <br>
+•	Microsoft Azure Fundamentals: (AZ-900) <br> 
+•	New relic Certified (Full Stack Observability Practioner) <br>
 
 :briefcase: Professional Experience  
 ---
