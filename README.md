@@ -28,7 +28,7 @@ I am a Computer Science major and I am searching for full time opportunities.
 
 :briefcase: Professional Experience  
 ---
-**• Student Technical Assistant at California State University, Los Angeles** 
+**• Student Technical Assistant at California State University, Los Angeles** <br>
 • Revamped web pages using JavaScript and Drupal, and built an automation system with Python, Plotly, and Excel to create schedules and data visualizations, reducing manual tasks for faculty by 40%. <br>
 • Supported 200 workstations, providing technical support and enhancing IT inventory processes by 15%. <br>
 
