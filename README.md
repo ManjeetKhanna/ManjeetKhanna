@@ -29,19 +29,10 @@ I am a Computer Science major and I am searching for full time opportunities.
 :briefcase: Professional Experience  
 ---
 **• Student Technical Assistant at California State University, Los Angeles** <br>
-• Revamped web pages using JavaScript and Drupal, and built an automation system with Python, Plotly, and Excel to create schedules and data visualizations, reducing manual tasks for faculty by 40%. <br>
-• Supported 200 workstations, providing technical support and enhancing IT inventory processes by 15%. <br>
 
 **• Custom Software Engineering Analyst at Accenture, Pune**  
-• Orchestrated manual processes to run on CI/CD Azure pipelines, resulting in delivery of automation on production servers for pipeline monitoring activities resulting in 90% reduction of manual efforts. <br>
-• Constructed SQL scripts for code optimization and business requirements resulting in 89% efficiency. <br>
-• Formulated data validation scripts and test cases with 95% efficiency, and curated tables and datasets in Google BigQuery, leading to a 54% improvement in managing big data. <br>
-• Documented technical solutions and workflows in JIRA Confluence, reducing developers’ coding time by 48%. <br>
-• Employed Cloud Functions, Pub/Sub, Airflow, and Terraform to automate workflows, streamline operations, and boost efficiency in cloud environments by 20%. tasks.  <br>
 
 **• Web Developer Intern at Pixaflip Technologies, Pune**  
-• Designed and developed responsive websites using WordPress, HTML, and CSS, improving functionality and achieving up to 87% responsiveness. <br>
-• Integrated websites with databases, achieving 75% accuracy, and improved homepage navigation with buttons and links, resulting in a 64% increase in user interaction.  <br>
 
 :hammer_and_wrench: Technical Skills  
 ---
