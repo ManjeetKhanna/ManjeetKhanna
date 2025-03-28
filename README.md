@@ -28,9 +28,9 @@ I am a Computer Science major and I am searching for full time opportunities.
 
 :briefcase: Professional Experience  
 ---
-**• Student Technical Assistant at California State University, Los Angeles** <br>
+**• Web Developer at California State University, Los Angeles** <br>
 
-**• Custom Software Engineering Analyst at Accenture, Pune**  
+**• Software Engineer Analyst at Accenture, Pune**  
 
 **• Web Developer Intern at Pixaflip Technologies, Pune**  
 
