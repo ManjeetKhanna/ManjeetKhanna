@@ -30,7 +30,7 @@ I am a Computer Science major and I am searching for full time opportunities.
 ---
 **• Web Developer at California State University, Los Angeles** <br>
 
-**• Software Engineer Analyst at Accenture, Pune**  
+**• Software Engineer at Accenture, Pune**  
 
 **• Web Developer Intern at Pixaflip Technologies, Pune**  
 
