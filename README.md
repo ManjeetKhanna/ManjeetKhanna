@@ -28,7 +28,7 @@ I am a Computer Science major and I am searching for full time opportunities.
 
 :briefcase: Professional Experience  
 ---
-**• Web Developer at California State University, Los Angeles** <br>
+**• Software Developer at California State University, Los Angeles** <br>
 
 **• Software Engineer at Accenture, Pune**  
 
